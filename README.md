@@ -1,3 +1,5 @@
+https://img.shields.io/github/issues/Palash-Vishnani/Flappy-Bird
+
 # Flappy Bird 
 
 This Flappy Bird game is created using python. The modules used here are pygame, sys and random.
