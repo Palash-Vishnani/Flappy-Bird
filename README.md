@@ -1,4 +1,4 @@
-https://img.shields.io/github/issues/Palash-Vishnani/Flappy-Bird
+[](https://img.shields.io/github/issues/Palash-Vishnani/Flappy-Bird)
 
 # Flappy Bird 
 
