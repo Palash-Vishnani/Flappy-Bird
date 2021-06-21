@@ -1,4 +1,4 @@
-[![GitHub issues](https://img.shields.io/github/issues/Palash-Vishnani/Flappy-Bird)](https://github.com/Palash-Vishnani/Flappy-Bird/issues)
+[![GitHub issues](https://img.shields.io/github/issues/Palash-Vishnani/Flappy-Bird)](https://github.com/Palash-Vishnani/Flappy-Bird/issues)   ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pyinstaller)
 
 # Flappy Bird 
 
